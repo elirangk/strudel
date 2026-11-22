@@ -134,6 +134,10 @@ const he = {
     title: 'כל מה שרציתם לדעת לפני שמזמינים',
     items: [
       {
+        q: 'יש פרסומות בטאבלט?',
+        a: 'ממש לא. אפס פרסומות, אפס תוכן ממומן, אפס שיתופי פעולה, אפס מותגים ואפס קישורי שותפים. כלום. רק המתכונים שלכם והתמונות של המשפחה.',
+      },
+      {
         q: 'צריך חיבור לאינטרנט כדי לבשל?',
         a: 'לא. ספריית המתכונים ומצב הבישול עובדים 100% אופליין — בלי התראות, בלי פרסומות ובלי קופצים.',
       },
@@ -298,6 +302,10 @@ const en: Copy = {
     title: 'Everything you want to know before ordering',
     items: [
       {
+        q: 'Are there advertisements on the tablet?',
+        a: 'Absolutely not. Zero ads, zero sponsored content or co-ops, zero brands, zero affiliate links. Nothing. Just your recipes and your family photos.',
+      },
+      {
         q: 'Do I need an internet connection to cook?',
         a: 'No. The recipe library and cooking mode work 100% offline — no notifications, no ads and no pop-ups.',
       },
@@ -460,6 +468,10 @@ const fr: Copy = {
     eyebrow: 'FAQ',
     title: 'Tout ce qu’il faut savoir avant de commander',
     items: [
+      {
+        q: 'Y a-t-il de la publicité sur la tablette\u202F?',
+        a: 'Absolument pas. Zéro pub, zéro contenu sponsorisé, zéro partenariat, zéro marque, zéro lien affilié. Rien. Juste vos recettes et vos photos de famille.',
+      },
       {
         q: 'Faut-il une connexion Internet pour cuisiner\u202F?',
         a: 'Non. La bibliothèque de recettes et le mode cuisine fonctionnent 100\u00A0% hors ligne — sans notifications, sans pubs et sans pop-ups.',
