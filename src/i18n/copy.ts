@@ -12,7 +12,7 @@ const he = {
   meta: {
     title: 'שטרודל | טאבלט המתכונים המשפחתי',
     description:
-      'טאבלט ייעודי למתכונים בלי הסחות דעת, שהופך למסגרת תמונות חיה של המשפחה. 649 ₪ כולל מעמד מגנטי, 50 מתכוני בסיס ומשלוח חינם.',
+      'טאבלט ייעודי למתכונים בלי הסחות דעת, שהופך למסגרת תמונות חיה של המשפחה. 649 ₪ כולל מעמד מגנטי, יותר מ־50 ממיטב מתכוני הבית בעולם ומשלוח חינם.',
   },
   brand: 'שטרודל',
   langSwitch: { label: 'שפת האתר', he: 'עברית', en: 'English', fr: 'Français' },
@@ -93,7 +93,7 @@ const he = {
     titleA: 'בנוי בדיוק למטבח.',
     titleB: 'לא לעוד גלילה ברשתות.',
     familyTitle: 'המתכונים של המשפחה, במקום אחד.',
-    familyBody: 'אפשר להוסיף את המתכונים המשפחתיים שלכם — החלה של אמא, העוגה של סבתא — לצד 50 מתכוני הבסיס.',
+    familyBody: 'אפשר להוסיף את המתכונים המשפחתיים שלכם — החלה של אמא, העוגה של סבתא — לצד יותר מ־50 ממיטב מתכוני הבית בעולם.',
     items: [
       {
         title: 'אפס הסחות דעת',
@@ -107,7 +107,7 @@ const he = {
       },
       {
         title: 'מוכן מהקופסה (Plug & Play)',
-        body: 'מגיע עם מעמד טעינה מגנטי. מחברים לחשמל והוא עובד מיד עם 50 מתכוני בסיס מוכנים.',
+        body: 'מגיע עם מעמד טעינה מגנטי. מחברים לחשמל והוא עובד מיד עם יותר מ־50 ממיטב מתכוני הבית בעולם.',
         note: 'תמיד טעון ב-100% ונשלף בשנייה',
       },
     ],
@@ -120,7 +120,7 @@ const he = {
     box: [
       'הטאבלט (10.1 אינץ׳ בהיר המותאם לתאורת מטבח)',
       'מעמד טעינה מגנטי יוקרתי + כבל חשמל',
-      '50 מתכוני בסיס מוכנים + מצב מסגרת משפחתית',
+      'יותר מ־50 ממיטב מתכוני הבית בעולם + מצב מסגרת משפחתית',
       'אפשרות להוסיף את המתכונים המשפחתיים שלכם',
     ],
     kit: 'ערכה מלאה מוכנה להפעלה',
@@ -148,11 +148,11 @@ const he = {
       },
       {
         q: 'מה יש בקופסה?',
-        a: 'טאבלט 10.1 אינץ׳ בהיר המותאם לתאורת מטבח, מעמד טעינה מגנטי + כבל חשמל, 50 מתכוני בסיס מוכנים ומצב מסגרת משפחתית. מחברים לחשמל וזה עובד.',
+        a: 'טאבלט 10.1 אינץ׳ בהיר המותאם לתאורת מטבח, מעמד טעינה מגנטי + כבל חשמל, יותר מ־50 ממיטב מתכוני הבית בעולם ומצב מסגרת משפחתית. מחברים לחשמל וזה עובד.',
       },
       {
         q: 'אפשר להוסיף את המתכונים המשפחתיים שלנו?',
-        a: 'כן. משפחות יכולות להוסיף את המתכונים שלהן, והם נשמרים בספריית הבית לצד 50 מתכוני הבסיס.',
+        a: 'כן. משפחות יכולות להוסיף את המתכונים שלהן, והם נשמרים בספריית הבית לצד יותר מ־50 ממיטב מתכוני הבית בעולם.',
       },
       {
         q: 'איך משלמים?',
@@ -166,7 +166,7 @@ const he = {
   },
   finalCta: {
     title: 'המטבח חוזר להיות הלב של הבית.',
-    sub: 'טאבלט + מעמד מגנטי + 50 מתכוני בסיס, עם משלוח חינם עד הבית.',
+    sub: 'טאבלט + מעמד מגנטי + יותר מ־50 ממיטב מתכוני הבית בעולם, עם משלוח חינם עד הבית.',
   },
   footer: {
     name: 'שטרודל • טאבלט המתכונים של המשפחה',
@@ -181,7 +181,7 @@ const en: Copy = {
   meta: {
     title: 'Strudel | The family recipe tablet',
     description:
-      'A distraction-free recipe tablet that turns into a living family photo frame. ₪649 with a magnetic stand, 50 starter recipes and free delivery.',
+      'A distraction-free recipe tablet that turns into a living family photo frame. ₪649 with a magnetic stand, more than 50 of the world’s best homemade recipes and free delivery.',
   },
   brand: 'Strudel',
   langSwitch: { label: 'Site language', he: 'עברית', en: 'English', fr: 'Français' },
@@ -262,7 +262,7 @@ const en: Copy = {
     titleA: 'Built for the kitchen.',
     titleB: 'Not for more scrolling.',
     familyTitle: 'Your family’s recipes, all in one place.',
-    familyBody: 'Add your own family recipes — Mom’s challah, Grandma’s cake — right alongside the 50 starter recipes.',
+    familyBody: 'Add your own family recipes — Mom’s challah, Grandma’s cake — right alongside more than 50 of the world’s best homemade recipes.',
     items: [
       {
         title: 'Zero distractions',
@@ -276,7 +276,7 @@ const en: Copy = {
       },
       {
         title: 'Ready out of the box (Plug & Play)',
-        body: 'Comes with a magnetic charging stand. Plug it in and it works right away, with 50 ready-made starter recipes.',
+        body: 'Comes with a magnetic charging stand. Plug it in and it works right away, with more than 50 of the world’s best homemade recipes.',
         note: 'Always at 100% and off the stand in a second',
       },
     ],
@@ -289,7 +289,7 @@ const en: Copy = {
     box: [
       'The tablet (bright 10.1″ screen tuned for kitchen lighting)',
       'Premium magnetic charging stand + power cable',
-      '50 ready-made starter recipes + family frame mode',
+      'More than 50 of the world’s best homemade recipes + family frame mode',
       'Room to add your own family recipes',
     ],
     kit: 'Complete kit, ready to go',
@@ -317,11 +317,11 @@ const en: Copy = {
       },
       {
         q: "What's in the box?",
-        a: 'A bright 10.1″ tablet tuned for kitchen lighting, a magnetic charging stand with power cable, 50 ready-made starter recipes and family frame mode. Plug it in and it just works.',
+        a: 'A bright 10.1″ tablet tuned for kitchen lighting, a magnetic charging stand with power cable, more than 50 of the world’s best homemade recipes and family frame mode. Plug it in and it just works.',
       },
       {
         q: 'Can we add our own family recipes?',
-        a: 'Yes. Families can add their own recipes, and they sit in the home library right alongside the 50 starter recipes.',
+        a: 'Yes. Families can add their own recipes, and they sit in the home library right alongside more than 50 of the world’s best homemade recipes.',
       },
       {
         q: 'How do I pay?',
@@ -335,7 +335,7 @@ const en: Copy = {
   },
   finalCta: {
     title: 'Make the kitchen the heart of the home again.',
-    sub: 'Tablet + magnetic stand + 50 starter recipes, with free delivery to your door.',
+    sub: 'Tablet + magnetic stand + more than 50 of the world’s best homemade recipes, with free delivery to your door.',
   },
   footer: {
     name: 'Strudel • The family recipe tablet',
@@ -349,7 +349,7 @@ const fr: Copy = {
   meta: {
     title: 'Strudel | La tablette à recettes de la famille',
     description:
-      'Une tablette dédiée aux recettes, sans distractions, qui devient un cadre photo vivant pour toute la famille. 649\u00A0₪ avec support magnétique, 50 recettes de base et livraison offerte.',
+      'Une tablette dédiée aux recettes, sans distractions, qui devient un cadre photo vivant pour toute la famille. 649\u00A0₪ avec support magnétique, plus de 50 des meilleures recettes maison du monde et livraison offerte.',
   },
   brand: 'Strudel',
   langSwitch: { label: 'Langue du site', he: 'עברית', en: 'English', fr: 'Français' },
@@ -430,7 +430,7 @@ const fr: Copy = {
     titleA: 'Pensée pour la cuisine.',
     titleB: 'Pas pour scroller sans fin.',
     familyTitle: 'Les recettes de la famille, au même endroit.',
-    familyBody: 'Ajoutez vos propres recettes de famille — la challah de maman, le gâteau de mamie — à côté des 50 recettes de base.',
+    familyBody: 'Ajoutez vos propres recettes de famille — la challah de maman, le gâteau de mamie — à côté de plus de 50 des meilleures recettes maison du monde.',
     items: [
       {
         title: 'Zéro distraction',
@@ -444,7 +444,7 @@ const fr: Copy = {
       },
       {
         title: 'Prête à l’emploi (Plug & Play)',
-        body: 'Livrée avec un support de charge magnétique. On la branche et elle fonctionne aussitôt, avec 50 recettes de base prêtes.',
+        body: 'Livrée avec un support de charge magnétique. On la branche et elle fonctionne aussitôt, avec plus de 50 des meilleures recettes maison du monde.',
         note: 'Toujours chargée à 100\u00A0% et détachable en une seconde',
       },
     ],
@@ -457,7 +457,7 @@ const fr: Copy = {
     box: [
       'La tablette (écran lumineux de 10,1″ adapté à l’éclairage de la cuisine)',
       'Support de charge magnétique haut de gamme + câble d’alimentation',
-      '50 recettes de base prêtes + mode cadre familial',
+      'Plus de 50 des meilleures recettes maison du monde + mode cadre familial',
       'La possibilité d’ajouter vos propres recettes de famille',
     ],
     kit: 'Kit complet, prêt à l’emploi',
@@ -485,11 +485,11 @@ const fr: Copy = {
       },
       {
         q: 'Que contient la boîte\u202F?',
-        a: 'Une tablette lumineuse de 10,1″ adaptée à l’éclairage de la cuisine, un support de charge magnétique avec câble d’alimentation, 50 recettes de base prêtes et le mode cadre familial. On branche, et ça marche.',
+        a: 'Une tablette lumineuse de 10,1″ adaptée à l’éclairage de la cuisine, un support de charge magnétique avec câble d’alimentation, plus de 50 des meilleures recettes maison du monde et le mode cadre familial. On branche, et ça marche.',
       },
       {
         q: 'Peut-on ajouter nos propres recettes de famille\u202F?',
-        a: 'Oui. Les familles peuvent ajouter leurs propres recettes, qui rejoignent la bibliothèque maison à côté des 50 recettes de base.',
+        a: 'Oui. Les familles peuvent ajouter leurs propres recettes, qui rejoignent la bibliothèque maison à côté de plus de 50 des meilleures recettes maison du monde.',
       },
       {
         q: 'Comment payer\u202F?',
@@ -503,7 +503,7 @@ const fr: Copy = {
   },
   finalCta: {
     title: 'La cuisine redevient le cœur de la maison.',
-    sub: 'Tablette + support magnétique + 50 recettes de base, livrés gratuitement chez vous.',
+    sub: 'Tablette + support magnétique + plus de 50 des meilleures recettes maison du monde, livrés gratuitement chez vous.',
   },
   footer: {
     name: 'Strudel • La tablette à recettes de la famille',
