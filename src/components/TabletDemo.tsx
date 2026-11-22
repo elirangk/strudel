@@ -215,6 +215,7 @@ function Tablet({ mode }: { mode: Mode }) {
         <div className="h-8 w-24 rounded-b-lg bg-[linear-gradient(90deg,#d3cbbf_0%,#f2ede5_38%,#e1d9cd_70%,#c3baae_100%)] shadow-[inset_0_2px_6px_rgb(0_0_0/0.12)] sm:h-10 sm:w-32" />
         <div className="h-3.5 w-52 rounded-full bg-[linear-gradient(180deg,#f5f1ea_0%,#ddd5c8_100%)] shadow-[0_18px_30px_-10px_rgb(43_33_25/0.3),0_2px_0_#bdb4a6] sm:w-72" />
       </div>
+      <p className="mt-3 text-center text-xs text-cocoa-muted/80">{t.demo.imageNote}</p>
     </div>
   )
 }
