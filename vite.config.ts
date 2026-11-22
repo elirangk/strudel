@@ -3,8 +3,23 @@ import tailwindcss from '@tailwindcss/vite'
 import react from '@vitejs/plugin-react'
 import { defineConfig } from 'vite'
 
+const productionHost = process.env.VERCEL_PROJECT_PRODUCTION_URL
+
 export default defineConfig({
-  plugins: [react(), tailwindcss()],
+  plugins: [
+    react(),
+    tailwindcss(),
+    {
+      name: 'absolute-og-image',
+      transformIndexHtml(html) {
+        if (!productionHost) return html
+        return html.replace(
+          'content="/og-image.jpg"',
+          `content="https://${productionHost}/og-image.jpg"`,
+        )
+      },
+    },
+  ],
   resolve: {
     alias: { '@': path.resolve(__dirname, './src') },
   },

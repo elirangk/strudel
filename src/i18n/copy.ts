@@ -10,11 +10,11 @@ export const LIST_PRICE = 990
 
 const he = {
   meta: {
-    title: 'KitchenTablet | טאבלט המתכונים המשפחתי',
+    title: 'שטרודל | טאבלט המתכונים המשפחתי',
     description:
       'טאבלט ייעודי למתכונים בלי הסחות דעת, שהופך למסגרת תמונות חיה של המשפחה. 649 ₪ כולל מעמד מגנטי, 50 מתכוני בסיס ומשלוח חינם.',
   },
-  brand: 'טאבלט המתכונים',
+  brand: 'שטרודל',
   langSwitch: { label: 'שפת האתר', he: 'עברית', en: 'English', fr: 'Français' },
   nav: {
     demo: 'התנסות חיה',
@@ -114,7 +114,7 @@ const he = {
   },
   order: {
     gift: 'מתנה מרגשת לבית, לחג או להורים',
-    title: 'ערכת KitchenTablet מלאה.',
+    title: 'ערכת שטרודל מלאה.',
     lead: 'אנחנו מכינים עבורכם את הכל מראש. פותחים את הקופסה, מניחים על המעמד המגנטי על השיש — ומתחילים לבשל.',
     boxTitle: 'מה מחכה לכם בקופסה:',
     box: [
@@ -169,21 +169,21 @@ const he = {
     sub: 'טאבלט + מעמד מגנטי + 50 מתכוני בסיס, עם משלוח חינם עד הבית.',
   },
   footer: {
-    name: 'KitchenTablet • טאבלט המתכונים של המשפחה',
+    name: 'שטרודל • טאבלט המתכונים של המשפחה',
     note: 'נבנה באהבה למטבחים ישראליים • תמיכה מלאה בוואטסאפ',
   },
-  floating: 'להזמנת ערכת KitchenTablet',
+  floating: 'להזמנת ערכת שטרודל',
 }
 
 export type Copy = typeof he
 
 const en: Copy = {
   meta: {
-    title: 'KitchenTablet | The family recipe tablet',
+    title: 'Strudel | The family recipe tablet',
     description:
       'A distraction-free recipe tablet that turns into a living family photo frame. ₪649 with a magnetic stand, 50 starter recipes and free delivery.',
   },
-  brand: 'KitchenTablet',
+  brand: 'Strudel',
   langSwitch: { label: 'Site language', he: 'עברית', en: 'English', fr: 'Français' },
   nav: {
     demo: 'Try it live',
@@ -283,7 +283,7 @@ const en: Copy = {
   },
   order: {
     gift: 'A heartwarming gift for the home, the holidays or your parents',
-    title: 'The complete KitchenTablet kit.',
+    title: 'The complete Strudel kit.',
     lead: 'We set everything up for you in advance. Open the box, place it on the magnetic stand on your counter — and start cooking.',
     boxTitle: "What's waiting in the box:",
     box: [
@@ -338,20 +338,20 @@ const en: Copy = {
     sub: 'Tablet + magnetic stand + 50 starter recipes, with free delivery to your door.',
   },
   footer: {
-    name: 'KitchenTablet • The family recipe tablet',
+    name: 'Strudel • The family recipe tablet',
     note: 'Built with love for Israeli kitchens • Full support on WhatsApp',
   },
-  floating: 'Order the KitchenTablet kit',
+  floating: 'Order the Strudel kit',
 }
 
 // French typography: narrow no-break space before ? ! and a no-break space before : and %.
 const fr: Copy = {
   meta: {
-    title: 'KitchenTablet | La tablette à recettes de la famille',
+    title: 'Strudel | La tablette à recettes de la famille',
     description:
       'Une tablette dédiée aux recettes, sans distractions, qui devient un cadre photo vivant pour toute la famille. 649\u00A0₪ avec support magnétique, 50 recettes de base et livraison offerte.',
   },
-  brand: 'KitchenTablet',
+  brand: 'Strudel',
   langSwitch: { label: 'Langue du site', he: 'עברית', en: 'English', fr: 'Français' },
   nav: {
     demo: 'Essayer en direct',
@@ -451,7 +451,7 @@ const fr: Copy = {
   },
   order: {
     gift: 'Un cadeau touchant pour la maison, les fêtes ou vos parents',
-    title: 'Le kit KitchenTablet complet.',
+    title: 'Le kit Strudel complet.',
     lead: 'Nous préparons tout pour vous à l’avance. Ouvrez la boîte, posez la tablette sur son support magnétique sur le plan de travail — et à vos fourneaux.',
     boxTitle: 'Ce qui vous attend dans la boîte\u00A0:',
     box: [
@@ -506,10 +506,10 @@ const fr: Copy = {
     sub: 'Tablette + support magnétique + 50 recettes de base, livrés gratuitement chez vous.',
   },
   footer: {
-    name: 'KitchenTablet • La tablette à recettes de la famille',
+    name: 'Strudel • La tablette à recettes de la famille',
     note: 'Conçue avec amour pour les cuisines israéliennes • Assistance complète sur WhatsApp',
   },
-  floating: 'Commander le kit KitchenTablet',
+  floating: 'Commander le kit Strudel',
 }
 
 export const copy: Record<Lang, Copy> = { he, en, fr }
